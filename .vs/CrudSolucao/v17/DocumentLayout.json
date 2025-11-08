@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|c:\\users\\gabri\\desktop\\projetos\\crudsolucao\\crudprojeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|solutionrelative:crudprojeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|c:\\users\\gabri\\desktop\\projetos\\crudsolucao\\crudprojeto\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|solutionrelative:crudprojeto\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|c:\\users\\gabri\\desktop\\projetos\\crudsolucao\\crudprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|solutionrelative:crudprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|c:\\users\\gabri\\desktop\\projetos\\crudsolucao\\crudprojeto\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|solutionrelative:crudprojeto\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|c:\\users\\gabri\\desktop\\projetos\\crudsolucao\\crudprojeto\\models\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|solutionrelative:crudprojeto\\models\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|c:\\users\\gabri\\desktop\\projetos\\crudsolucao\\crudprojeto\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|solutionrelative:crudprojeto\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|c:\\users\\gabri\\desktop\\projetos\\crudsolucao\\crudprojeto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DB9949-910F-4771-9306-7864B281968C}|CrudProjeto\\CrudProjeto.csproj|solutionrelative:crudprojeto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\Models\\UsuarioUpdateDTO.cs",
+              "RelativeDocumentMoniker": "CrudProjeto\\Models\\UsuarioUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\Models\\UsuarioUpdateDTO.cs",
+              "RelativeToolTip": "CrudProjeto\\Models\\UsuarioUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:51:53.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CrudProjeto\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CrudProjeto\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:11:32.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "CrudProjeto\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\Models\\Usuarios.cs",
+              "RelativeToolTip": "CrudProjeto\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:13:07.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "CrudProjeto\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "CrudProjeto\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:12:12.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CrudProjeto\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CrudProjeto\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:12:07.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "CrudProjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\Program.cs",
+              "RelativeToolTip": "CrudProjeto\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:56:22.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudProjeto\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\CrudSolucao\\CrudProjeto\\appsettings.json",
+              "RelativeToolTip": "CrudProjeto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T18:53:22.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
