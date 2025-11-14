@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 namespace CrudProjeto.Controllers;
 
 [ApiController]//controler api
-[Route("api/[controller]")]//end point entre [] pega o nome do arquivo
+[Route("api/usuarios")]//end point entre [] pega o nome do arquivo
 
 public class UsuariosController : ControllerBase
 {
