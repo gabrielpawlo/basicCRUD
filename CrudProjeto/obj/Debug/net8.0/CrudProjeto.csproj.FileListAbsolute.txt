@@ -173,3 +173,4 @@ C:\Users\gabri\Desktop\Projetos\CrudSolucao\CrudProjeto\bin\Debug\net8.0\Swashbu
 C:\Users\gabri\Desktop\Projetos\CrudSolucao\CrudProjeto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\gabri\Desktop\Projetos\CrudSolucao\CrudProjeto\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\gabri\Desktop\Projetos\CrudSolucao\CrudProjeto\obj\Debug\net8.0\CrudProjeto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabri\Desktop\Projetos\CrudSolucao\CrudProjeto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
